@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SillyStringUtils.sol": "SillyStringUtils"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SillyStringUtils.sol": {
+			"keccak256": "0x8188c055ef146e2b053902e729fbc3b76da6100bdef7f9a450ecd0aaaa97e2ed",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f1a2fa405afd45d1c8d2653151c1859d25d1a664175899ed772ca8a87439345a",
+				"dweb:/ipfs/QmXkJUVdqky59PtNJRmM9vvF2v6Wza3xQHKcnRgwuTLr8V"
+			]
+		}
+	},
+	"version": 1
+}
